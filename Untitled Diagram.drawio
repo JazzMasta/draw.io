@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T11:45:51.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="17.1.3" etag="Jshhuq3JjdSkbItW-ah8" type="github"><diagram id="3jE3E16kFsmBQC08ETBm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-22T13:45:25.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="gCuWgo1oYgrW_UWmK_qj" version="17.1.3" type="github">
+  <diagram id="3jE3E16kFsmBQC08ETBm" name="Page-1">
+    <mxGraphModel dx="1206" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-1" value="Componenter" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-2" value="SSR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="970" width="119" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-3" value="Copy / Content" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4kG4HkqIuVOhfAWXnK-l-4" target="4kG4HkqIuVOhfAWXnK-l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-4" value="CMS&lt;br&gt;Optimizely" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="230" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-5" value="Parser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="650" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4kG4HkqIuVOhfAWXnK-l-6" target="4kG4HkqIuVOhfAWXnK-l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-6" value="JSON" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="440" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4kG4HkqIuVOhfAWXnK-l-9" value="React components" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="810" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
